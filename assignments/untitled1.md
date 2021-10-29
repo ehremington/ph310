@@ -1,4 +1,4 @@
-# Chapter 3 - Problem Set 1
+# Chapter 3 - Problem Set 3
 
 ## Problem 1
 
