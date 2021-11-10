@@ -6,7 +6,7 @@ import shutil
 
 options = {
     ######## USER INPUT #########
-    "sectionNr": True,
+    "sectionNr": False,
     "TOC": True,
     "TOC_depth": 2,
     "pathToBib": "lib2.bib",
